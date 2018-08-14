@@ -2,4 +2,4 @@ Course project
 25%
 Plant watering system using IoT devices
 "The only code we need to write is for the microcontroller to input the sensor data and relay that information to valve so that it can allow the release of water" 
-"Hello" 
+
