@@ -1,0 +1,3 @@
+Course project 
+25%
+Plant watering system using IoT devices
